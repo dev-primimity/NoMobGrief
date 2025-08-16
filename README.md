@@ -1,5 +1,7 @@
 # NoMobGrief v1.0
 
+<img width="854" height="480" alt="2025-08-16_15 46 33-min" src="https://github.com/user-attachments/assets/b60616fa-e930-4da1-a4d2-6cbc0f0caee2" />
+
 A lightweight Minecraft plugin that prevents mobs from causing block damage and griefing your builds.
 
 ## ✨ Features
@@ -21,3 +23,4 @@ doEndermanPickup: false
 ## 🔗 Links
 Need a custom plugin? Message me on Discord:
 https://discord.com/users/primimity
+
