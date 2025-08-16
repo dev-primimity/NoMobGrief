@@ -1,0 +1,4 @@
+name: NoMobGrief
+version: '1.0'
+main: me.primimity.noMobGrief.Main
+api-version: '1.21'
