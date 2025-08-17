@@ -1,4 +1,9 @@
-name: NoMobGrief
-version: '1.0'
 main: me.primimity.noMobGrief.Main
+
+name: NoMobGrief
+version: 1.0
+description: 'Disallows Creepers and Endermen from destroying your world.'
 api-version: '1.21'
+
+author: Primimity
+website: https://discord.com/users/primimity
